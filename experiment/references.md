@@ -1,9 +1,9 @@
 <table style="text-align:justify;">
-  <tr>
+  <tr style="background-color: white">
     <th>References</th>
     <th>Contributors list</th>
   </tr>
-  <tr>
+  <tr style="background-color: white">
     <td>
     <li>Modi, P.N and Seth, S.M., Hydraulics and Fluid Mechanics, Standard Book House, Delhi, 2010.</li>
     <li>Herbert H Tackett, James A Cripe and Gary Dyson, “Positive Displacement Reciprocating Pump Fundamentals Power and Direct Acting Types”, in proceedings of the twenty-fourth International Pump Users Symposium, 2008.</li>

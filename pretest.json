@@ -1,0 +1,44 @@
+[{
+	"question": "The work requirement of reciprocating pump with increase in acceleration head",
+	"answers": {
+		"a": "Increases",
+		"b": "Remains same",
+		"c": "Decreases",
+		"d": "None of the above"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "The positive pump has less pressure at output than centrifugal pump. (Say True or False)",
+	"answers": {
+		"a": "True",
+		"b": "False"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "Slip of a reciprocating pump is defined as the",
+	"answers": {
+		"a": "Ratio of actual discharge to the theoretical discharge",
+		"b": "Sum of actual discharge and the theoretical discharge",
+		"c": "Difference of theoretical discharge and the actual discharge",
+		"d": "Product of theoretical discharge and the actual discharge"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "Saving of work done and power by fitting an air vessel to double acting reciprocating pump is of the order of",
+	"answers": {
+		"a": "37.2%",
+		"b": "38.2%",
+		"c": "39.2%",
+		"d": "84.8%"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "Reciprocating pump should be chosen in preference to centrifugal pump",
+	"answers": {
+		"a": "Large flows are to be pumped against small head",
+		"b": "Small flows are to be pumped against large head",
+		"c": "Liquids with suspended matters has to be pumped",
+		"d": "Hydraulic losses in pump and pipes are to be minimized"
+	},
+	"correctAnswer": "b"
+}]
